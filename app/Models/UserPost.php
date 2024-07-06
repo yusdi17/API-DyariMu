@@ -59,4 +59,5 @@ class UserPost extends Models
     protected $afterFind      = [];
     protected $beforeDelete   = [];
     protected $afterDelete    = [];
+
 }
